@@ -1,45 +1,28 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "asympTest"]
 	path = asympTest
 	url = https://github.com/cran/asympTest
-	shallow = true
-	registered = true
 [submodule "CompQuadForm"]
 	path = CompQuadForm
 	url = https://github.com/cran/CompQuadForm
-	shallow = true
-	registered = true
 [submodule "ConvergenceConcepts"]
 	path = ConvergenceConcepts
 	url = https://github.com/cran/ConvergenceConcepts
-	shallow = true
-	registered = true
 [submodule "ECGofTestDx"]
 	path = ECGofTestDx
 	url = https://github.com/cran/ECGofTestDx
-	shallow = true
-	registered = true
 [submodule "groc"]
 	path = groc
 	url = https://github.com/cran/groc
-	shallow = true
-	registered = true
 [submodule "HellCor"]
 	path = HellCor
 	url = https://github.com/cran/HellCor
-	shallow = true
-	registered = true
 [submodule "nortestARMA"]
 	path = nortestARMA
 	url = https://github.com/cran/nortestARMA
-	shallow = true
-	registered = true
 [submodule "rPowerSampleSize"]
 	path = rPowerSampleSize
 	url = https://github.com/cran/rPowerSampleSize
-	shallow = true
-	registered = true
