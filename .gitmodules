@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "asympTest"]
-	path = asympTest
-	url = https://github.com/cran/asympTest
 [submodule "CompQuadForm"]
 	path = CompQuadForm
 	url = https://github.com/cran/CompQuadForm
@@ -14,12 +11,15 @@
 [submodule "ECGofTestDx"]
 	path = ECGofTestDx
 	url = https://github.com/cran/ECGofTestDx
-[submodule "groc"]
-	path = groc
-	url = https://github.com/cran/groc
 [submodule "HellCor"]
 	path = HellCor
 	url = https://github.com/cran/HellCor
+[submodule "asympTest"]
+	path = asympTest
+	url = https://github.com/cran/asympTest
+[submodule "groc"]
+	path = groc
+	url = https://github.com/cran/groc
 [submodule "nortestARMA"]
 	path = nortestARMA
 	url = https://github.com/cran/nortestARMA
