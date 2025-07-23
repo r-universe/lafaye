@@ -14,6 +14,9 @@
 [submodule "HellCor"]
 	path = HellCor
 	url = https://github.com/cran/HellCor
+[submodule "PoweR"]
+	path = PoweR
+	url = https://github.com/cran/PoweR
 [submodule "asympTest"]
 	path = asympTest
 	url = https://github.com/cran/asympTest
