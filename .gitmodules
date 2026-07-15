@@ -17,6 +17,9 @@
 [submodule "HellCor"]
 	path = HellCor
 	url = https://github.com/cran/HellCor
+[submodule "IndependenceTests"]
+	path = IndependenceTests
+	url = https://github.com/cran/IndependenceTests
 [submodule "PoweR"]
 	path = PoweR
 	url = https://github.com/cran/PoweR
