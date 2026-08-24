@@ -20,9 +20,15 @@
 [submodule "IndependenceTests"]
 	path = IndependenceTests
 	url = https://github.com/cran/IndependenceTests
+[submodule "LeLogicielR"]
+	path = LeLogicielR
+	url = https://github.com/cran/LeLogicielR
 [submodule "PoweR"]
 	path = PoweR
 	url = https://github.com/cran/PoweR
+[submodule "TRSbook"]
+	path = TRSbook
+	url = https://github.com/cran/TRSbook
 [submodule "asympTest"]
 	path = asympTest
 	url = https://github.com/cran/asympTest
